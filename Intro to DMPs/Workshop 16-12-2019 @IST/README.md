@@ -1,2 +1,5 @@
-**Ready for BioData Management? - Introduction to Data Management Plans** is an introductory one-day workshop aiming at disseminating Data Management best practices and teaching the basics of making and using Data Management Plans (DMPs) in the context of research activities.
-The course features two introductory lectures on Data Management and DMPs, followed by a hands-on DMP exercise where participants will form groups to fill-in a DMP for a mock research project on our custom canvas. The produced DMPs will then be presented, discussed and evaluated.
+This was the second edition of the **Ready for BioData Management? - Introduction to Data Management Plans** workshop, held at the  IST, in December 16th 2019.
+
+The DMPs produced by the particiants and our feedback on them are published in the [Feedback](https://github.com/BioData-PT/Ready4BioDataManagement/blob/master/Intro%20to%20DMPs/Workshop%2016-12-2019%20%40IST/Feedback.pdf) document.
+
+The materials for the course are available in the [Materials](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Intro%20to%20DMPs/Materials) folder.
