@@ -9,6 +9,6 @@ This has been recognized by science funders and publishers who are now enforcing
 **Ready for BioData Management?** is a program in data management for the life sciences to empower researchers and institutions in managing their data more effectively and efficiently.
 
 **BioData.pt** is currently offering the following opportunities:
-- One-Day Workshop: Introduction to Data Management Plans
-- One-Day Course: Advanced Data Management Plans
-- Class Modules: Introduction to Data Management In Science; Demystifying Data Management Plans
+- One-Day Workshop: [Introduction to Data Management Plans](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Intro%20to%20DMPs)
+- One-Day Course: [Advanced Data Management Plans](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Advanced%20DMPs)
+- [Class Modules](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Class%20Modules): Introduction to Data Management In Science; Demystifying Data Management Plans
