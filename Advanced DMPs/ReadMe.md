@@ -12,7 +12,7 @@ The following co-authors contributed to the development of the training material
 * [João Cardoso](https://github.com/JoaoMFCardoso)
 
 #### Course Webpage
-This is the link to the [course webpage]http://ready4biodatamanagement.biodata.pt/course.html), for further information about the course.
+This is the link to the [course webpage](http://ready4biodatamanagement.biodata.pt/course.html), for further information about the course.
 
 #### Code of Conduct
 Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
