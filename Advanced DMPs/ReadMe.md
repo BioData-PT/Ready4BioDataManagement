@@ -14,7 +14,7 @@ These materials are licensed under the  <a rel="license" href="http://creativeco
 
 ### Host 
 
-<a href="https://biodata.pt/"><img src="./assets/readme_img/BioData.Logo_colour.corrected_transp.bg.png" alt="BioData.pt" width="250px"></a>
+<a href="https://biodata.pt/"><img src="./Files/BioData.png" alt="BioData.pt" width="250px"></a>
 
 
 
