@@ -2,7 +2,7 @@
 
 ### Authors/Organizers
 
-This **Ready for BioData Management?** course is organized and its materials are authored by:
+The organizers and authors of the materials of this **Ready for BioData Management?** course are:
 
 * [Daniel Faria](https://github.com/DanFaria)
 * [João Cardoso](https://github.com/JoaoMFCardoso)
