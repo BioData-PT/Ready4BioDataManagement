@@ -1,4 +1,4 @@
-# Ready4BioDataManagement
+# Ready for BioData Management?
 
 ## Having trouble managing the biological data of your institution, laboratory, project or thesis?
 
