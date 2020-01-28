@@ -1,15 +1,9 @@
 ## Ready for BioData Management? - Advanced Data Management Plans
 
-### Authors/Organizers
+### Do you want to apply for a H2020 project and are struggling with the Data Management Plan (DMP)?
 
-The organizers and authors of the materials of this **Ready for BioData Management?** course are:
+**Ready for BioData Management? - Advanced Data Management Plans** is a one-day course where participants will be guided through the process of preparing a real DMP for a real research project, according to the H2020 DMP template.
 
-* [Daniel Faria](https://github.com/DanFaria)
-* [João Cardoso](https://github.com/JoaoMFCardoso)
+The course assumes participants have basic notions of DMPs. It will feature a lecture introducing the DMPOnline platform that the participants will be using, and another lecture overviewing the H2020 DMP template, but the majority of the course will be a hands-on session where participants prepare a DMP in the platform, in pairs.
 
-### Host 
-
-<a href="https://biodata.pt/"><img src="./Files/BioData.png" alt="BioData.pt" width="250px"></a>
-
-
-
+Participants are encouraged to bring their own research project or project plan, in the interest of producing a DMP that is relevant for them.
