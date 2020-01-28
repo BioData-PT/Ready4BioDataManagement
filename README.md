@@ -22,7 +22,8 @@ This has been recognized by science funders and publishers who are now enforcing
 ---
 ### Host
 <a href="https://biodata.pt/"><img src="./Files/BioData.png" alt="BioData.pt" width="250px"></a>
-<a href="https://www.facebook.com/BioData.pt"><img src="./Files/facebook.png" alt="Facebook" width="50px"></a><a href="https://twitter.com/BioData_pt"><img src="./Files/twitter.png" alt="Twitter" width="50px"></a><a href="https://www.linkedin.com/company/biodata-pt/"><img src="./Files/linkedin.png" alt="LinkedIn" width="50px"></a>
+<br>
+<a href="https://www.facebook.com/BioData.pt"><img src="./Files/facebook.png" alt="Facebook" width="50px"></a>&nbsp;&nbsp;<a href="https://twitter.com/BioData_pt"><img src="./Files/twitter.png" alt="Twitter" width="50px"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/biodata-pt/"><img src="./Files/linkedin.png" alt="LinkedIn" width="50px"></a>
 
 ---
 
