@@ -6,7 +6,7 @@ Scientific data production is increasing at an exponential rate. Good data manag
 
 This has been recognized by science funders and publishers who are now enforcing open science policies and adherence to the FAIR principles.
 
-[**Ready for BioData Management?**](http://ready4biodatamanagement.biodata.pt/) is a program in data management for the life sciences to empower researchers and institutions in managing their data more effectively and efficiently.
+[**Ready for BioData Management?**](http://ready4biodatamanagement.biodata.pt/) is a capacity-building program in data management for the life sciences to empower researchers and institutions in managing their data more effectively and efficiently.
 
 [**BioData.pt**](http://www.biodata.pt/) is currently offering the following opportunities:
 - One-Day Workshop: [Introduction to Data Management Plans](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Intro%20to%20DMPs)
