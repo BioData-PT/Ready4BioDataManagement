@@ -15,9 +15,9 @@ This has been recognized by science funders and publishers who are now enforcing
 
 ---
 ### Authors/Organizers
-**Ready for BioData Management?** is co-organized and authored by:
-* [Daniel Faria](https://github.com/DanFaria)
-* [João Cardoso](https://github.com/JoaoMFCardoso)
+* [Daniel Faria](https://github.com/DanFaria) - co-organizer and co-author
+* [João Cardoso](https://github.com/JoaoMFCardoso)  - co-organizer and co-author
+* Marta Silva - graphic and web design
 
 ---
 ### Host
