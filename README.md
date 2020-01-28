@@ -14,6 +14,14 @@ This has been recognized by science funders and publishers who are now enforcing
 - [Class Modules](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Class%20Modules): Introduction to Data Management In Science; Demystifying Data Management Plans
 
 ---
+### Authors/Organizers
+
+**Ready for BioData Management?** is co-organized and authored by:
+
+* [Daniel Faria](https://github.com/DanFaria)
+* [João Cardoso](https://github.com/JoaoMFCardoso)
+
+---
 
 ### Host
 
