@@ -13,11 +13,17 @@ This has been recognized by science funders and publishers who are now enforcing
 - One-Day Course: [Advanced Data Management Plans](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Advanced%20DMPs)
 - [Class Modules](https://github.com/BioData-PT/Ready4BioDataManagement/tree/master/Class%20Modules): Introduction to Data Management In Science; Demystifying Data Management Plans
 
+---
+
+### Host
+
+<a href="https://biodata.pt/"><img src="./Files/BioData.png" alt="BioData.pt" width="250px"></a>
+
+
+---
 
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All **Ready for BioData Management?** materials are licensed under the  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Host 
 
-<a href="https://biodata.pt/"><img src="./Files/BioData.png" alt="BioData.pt" width="250px"></a>
