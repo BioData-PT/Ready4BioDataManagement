@@ -10,13 +10,13 @@ Participants are encouraged to bring their own research project or project plan,
 
 ### Agenda
 
-9:30 Welcome address (Daniel Faria & João Cardoso)
-9:35 Introduction to the Advanced DMP Workshop (Daniel Faria)
-9:45 The DMPOnline & the H2020 DMP Template(João Cardoso)
-10:30 Break
-10:50 Hands-On DMP Creation Exercise (Part 1)
-12:30 Lunch break
-13:30 Hands-On DMP Creation Exercise (Part 2)
-16:00 Break
-16:20 Hands-On DMP Creation Exercise (Part 3)
-17:30 Farewell address
+- 9:30 Welcome address (Daniel Faria & João Cardoso)
+- 9:35 Introduction to the Advanced DMP Workshop (Daniel Faria)
+- 9:45 The DMPOnline & the H2020 DMP Template(João Cardoso)
+- 10:30 Break
+- 10:50 Hands-On DMP Creation Exercise (Part 1)
+- 12:30 Lunch break
+- 13:30 Hands-On DMP Creation Exercise (Part 2)
+- 16:00 Break
+- 16:20 Hands-On DMP Creation Exercise (Part 3)
+- 17:30 Farewell address
