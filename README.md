@@ -14,8 +14,9 @@ This has been recognized by science funders and publishers who are now enforcing
 
 ---
 ### Authors/Organizers
-* [Daniel Faria](https://github.com/DanFaria) - co-organizer and co-author
-* [João Cardoso](https://github.com/JoaoMFCardoso)  - co-organizer and co-author
+* [Daniel Faria](https://github.com/DanFaria) - scientific coordination
+* [Jorge Oliveira](https://github.com/oliveirajorge88)  - author & trainer
+* [Gil Poiares Oliveira](https://github.com/GilOliveira)  - author & trainer
 * Marta Silva - graphic and web design
 
 ---
