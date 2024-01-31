@@ -1,6 +1,9 @@
 # Ready for BioData Management?
 
+<img src="./Files/r4bdm.svg" alt="Ready for BioData Management?" width="200px"><br>
+
 **Having trouble managing the biological data of your institution, laboratory, project or thesis?**
+
 
 Scientific data production is increasing at an exponential rate. Good data management practices and compliance with FAIR data principles are key to addressing this challenge.
 
